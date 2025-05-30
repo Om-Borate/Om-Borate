@@ -1,13 +1,13 @@
-## Hi there 👋
-##🎓 Computer Science student | Aspiring Java Developer
-##💻 Passionate about building secure and efficient software solutions
-##🔹 Recently Completed B.Sc. in Computer Science
-##🔹 Skilled in Core & Advanced Java, with experience in MySQL, HTML/CSS/JS
-##🔹 Projects:
-  #📁 File Hider - OTP & Email Authentication
-  #🧾 Drycleaning Billing System
-##📫 Reach me at: omborate123456@gmail.com
-##🚀 Always learning | Open to collaboration on Java-based projects!
+## Hi there 👋 I'm Om Borate
+🎓 Computer Science student | Aspiring Java Developer
+💻 Passionate about building secure and efficient software solutions
+🔹 Recently Completed B.Sc. in Computer Science
+🔹 Skilled in Core & Advanced Java, with experience in MySQL, HTML/CSS/JS
+🔹 Projects:
+  📁 File Hider - OTP & Email Authentication
+  🧾 Drycleaning Billing System
+📫 Reach me at: omborate123456@gmail.com
+🚀 Always learning | Open to collaboration on Java-based projects!
 <!--
 **Om-Borate/Om-Borate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
