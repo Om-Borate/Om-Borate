@@ -2,7 +2,7 @@
 🎓 Computer Science student | Aspiring Java Developer
 💻 Passionate about building secure and efficient software solutions
 🔹 Recently Completed B.Sc. in Computer Science
-🔹 Skilled in Core & Advanced Java, with experience in MySQL, HTML/CSS/JS
+🔹 Skilled in Core & Advanced Java, with experience in MySQL, HTML/CSS/JS/React
 🔹 Projects:
   📁 File Hider - OTP & Email Authentication
   🧾 Drycleaning Billing System
